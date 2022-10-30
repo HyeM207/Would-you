@@ -1,6 +1,6 @@
 # Would-you
 ### 공모전 팀 모집 커뮤니티 어플 
-![Guru2_Would you](./image/slide1.PNG)
+![Guru2_Would you](./image/slide0.PNG)
 
 
 ## ▶ 프로젝트 기간  
